@@ -1,0 +1,34 @@
+
+PROBLEMÁTICA
+Llevar a formato interactivo un libro de la serie Elige tu Propia Aventura, con un agregado de botones programados en cada página para que el lector pueda realizar las acciones que propone el libro.
+
+CRITERIOS DE BRANCHING
+
+* Todos los requerimientos se trabajarán en la rama main. 
+* Para cada mejora o cada reporte de error, se generará una nueva rama, indetificada como MejoraX o ErrorX (donde X es un número que va aumentando secuencialmente)
+* Las ramas locales se eliminarán luego del merge/push
+* Las ramas remotas no se eliminarán del repositorio
+
+
+* PROTOCOLO
+
+* Crear una carpeta local llamada TPE_TIO_2021 que será el repositorio LOCAL de cada uno.
+* Al hacer capturas de pantalla, agregar pie de foto con texto describiendo la acción realizada y el por qué de la misma.
+
+* DIGITALIZACION
+
+  * Cada integrante inicia el repositorio con los respectivos comandos y registra captura de pantalla. 
+  * Cada integrante hace Pull del repositorio remoto y registra captura de pantalla. 
+  * Crear un archivo .doc / .docx con las hojas a digitalizar del cuento LA CUEVA DEL TIEMPO y guardarlo en el repositorio local. El Archivo tendrá el nombre lacuevadeltiempo_XX-XX (donde XX-XX indica de página XX a página XX).
+  * Realizar Add y registrar captura de pantalla, luego Commit con el mensaje "Agrego páginas XX a XX" y registrar captura de pantalla. 
+  * Cada integrante pushea su archivo al repositorio.
+
+* TAREAS (en proceso, habría que definir 10 y clasificarlas como requerimiento, mejora o reporte de error)
+
+  * MEJORA - Cada integrante agrega en el archivo que subió anteriormente el signo "$" delante del numero de     página
+  * REQUERIMIENTO - Unificar los 10 archivos en un archivo lacuevadeltiempo.docx
+  * REPORTE ERROR - Por error en la digitalización, se debe controlar y modificar las palabras mal     escaneadas en el tramo de hojas asignadas inicialmente. 
+  * MEJORA - El departamento de Programación definió que cada página llevará un TAG de título, por lo que se     debe reemplazar el número de página por la acción que se desarrolla en la misma. 
+  * MEJORA - Agregar el código con los botones.
+
+
