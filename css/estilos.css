@@ -26,6 +26,10 @@ img {
 	margin: auto;
 	display: block;
 }
+img.logo {
+	width: 25px;
+	display: inline-block;
+}
 form {
 	width: 25%;
 	border: 1px solid #ccc;
@@ -63,4 +67,11 @@ input[type="submit"] {
 input[type="submit"]:hover {
 	background: #4a88f4;
 	cursor: pointer;
+}
+footer {
+	background: #000;
+	color: #fff;
+	clear: both;
+	padding: 10px 0px;
+	text-align: center;
 }
