@@ -30,5 +30,5 @@ CRITERIOS DE BRANCHING
   * REPORTE ERROR - Por error en la digitalización, se debe controlar y modificar las palabras mal     escaneadas en el tramo de hojas asignadas inicialmente. 
   * MEJORA - El departamento de Programación definió que cada página llevará un TAG de título, por lo que se     debe reemplazar el número de página por la acción que se desarrolla en la misma. 
   * MEJORA - Agregar el código con los botones.
-
+asd
 
